@@ -1,0 +1,434 @@
+{
+  "AbstractB": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractC": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractD": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractE": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractF": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractG": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractH": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractI": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractJ": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractK": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractL": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractM": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractN": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractO": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractP": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractQ": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractR": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractS": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractT": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractU": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractV": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractW": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractX": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractY": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractZ": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAA": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAB": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractAC": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractAD": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAE": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAF": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractAG": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractAH": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAI": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAJ": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractAK": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractAL": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAM": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAN": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractAO": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractAP": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAQ": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAR": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractAS": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractAT": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAU": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAV": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractAW": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractAX": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAY": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractAZ": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractBA": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractBB": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractBC": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractBD": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractBE": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractBF": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractBG": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractBH": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractBI": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractBJ": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractBK": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractBL": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractBM": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractBN": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractBO": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractBP": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractBQ": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractBR": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractBS": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Minimal"
+  },
+  "AbstractBT": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Expressionist"
+  },
+  "AbstractBU": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Minimal/Expressionist":"Expressionist"
+  }
+}

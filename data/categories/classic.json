@@ -1,0 +1,290 @@
+{
+  "ClassicB": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicC": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicD": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicE": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicF": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicG": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicH": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicI": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicJ": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicK": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicL": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicM": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicN": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicO": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicP": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicQ": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicR": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicS": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicT": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicU": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicV": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicW": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicX": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicY": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicZ": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicAA": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicAB": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicAC": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicAD": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicAE": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicAF": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicAG": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicAH": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicAI": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicAJ": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicAK": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicAL": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicAM": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicAN": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicAO": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicAP": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicAQ": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicAR": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicAS": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Classic styles"
+  },
+  "ClassicAT": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicAU": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicAV": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  },
+  "ClassicAW": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Classic/Modern":"Modern (impressionism) styles"
+  }
+}

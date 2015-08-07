@@ -1,0 +1,578 @@
+{
+  "Emrg/FamousB": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousC": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousD": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousE": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousF": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousG": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousH": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousI": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousJ": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousK": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousL": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousM": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousN": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousO": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousP": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousQ": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousR": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousS": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousT": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousU": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousV": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousW": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousX": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousY": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousZ": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAA": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAB": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousAC": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousAD": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAE": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAF": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousAG": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousAH": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAI": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAJ": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousAK": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousAL": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAM": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAN": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousAO": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousAP": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAQ": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAR": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousAS": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousAT": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAU": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAV": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousAW": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousAX": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAY": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousAZ": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBA": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBB": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousBC": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousBD": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBE": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBF": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousBG": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousBH": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBI": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBJ": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousBK": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousBL": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBM": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBN": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousBO": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousBP": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBQ": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBR": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousBS": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousBT": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBU": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBV": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousBW": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousBX": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBY": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousBZ": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousCA": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousCB": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousCC": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousCD": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousCE": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousCF": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousCG": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Socialite\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousCH": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousCI": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousCJ": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousCK": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Pioneer\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousCL": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousCM": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousCN": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousCO": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Patron\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousCP": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousCQ": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"known artists"
+  },
+  "Emrg/FamousCR": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  },
+  "Emrg/FamousCS": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "What Motivates":"I'm \"the Historian\"",
+    "Known/ Unknown/ Emerging":"emerging artists"
+  }
+}

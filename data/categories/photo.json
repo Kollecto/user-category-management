@@ -1,0 +1,434 @@
+{
+  "PhotoB": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoC": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoD": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoE": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoF": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoG": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoH": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoI": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoJ": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoK": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoL": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoM": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoN": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoO": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoP": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoQ": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoR": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoS": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoT": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoU": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoV": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoW": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoX": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoY": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoZ": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAA": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAB": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoAC": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoAD": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAE": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAF": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoAG": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoAH": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAI": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAJ": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoAK": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoAL": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAM": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAN": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoAO": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoAP": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAQ": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAR": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoAS": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoAT": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAU": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAV": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoAW": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoAX": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAY": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoAZ": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoBA": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoBB": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoBC": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoBD": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoBE": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoBF": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoBG": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoBH": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoBI": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoBJ": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoBK": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoBL": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoBM": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoBN": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoBO": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoBP": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoBQ": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"emerging artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoBR": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoBS": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"colorful"
+  },
+  "PhotoBT": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"black & white"
+  },
+  "PhotoBU": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Colorful/Black&White":"black & white"
+  }
+}

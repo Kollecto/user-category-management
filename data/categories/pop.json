@@ -1,0 +1,290 @@
+{
+  "PopB": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"serious"
+  },
+  "PopC": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"serious"
+  },
+  "PopD": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"serious"
+  },
+  "PopE": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"serious"
+  },
+  "PopF": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"playful"
+  },
+  "PopG": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"playful"
+  },
+  "PopH": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"playful"
+  },
+  "PopI": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"playful"
+  },
+  "PopJ": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"serious"
+  },
+  "PopK": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"serious"
+  },
+  "PopL": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"serious"
+  },
+  "PopM": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"serious"
+  },
+  "PopN": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"playful"
+  },
+  "PopO": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"playful"
+  },
+  "PopP": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"playful"
+  },
+  "PopQ": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"playful"
+  },
+  "PopR": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"serious"
+  },
+  "PopS": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"serious"
+  },
+  "PopT": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"serious"
+  },
+  "PopU": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"serious"
+  },
+  "PopV": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"playful"
+  },
+  "PopW": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"playful"
+  },
+  "PopX": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"playful"
+  },
+  "PopY": {
+    "Budget":"$500-$1000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"playful"
+  },
+  "PopZ": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"serious"
+  },
+  "PopAA": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"serious"
+  },
+  "PopAB": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"serious"
+  },
+  "PopAC": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"serious"
+  },
+  "PopAD": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"playful"
+  },
+  "PopAE": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"playful"
+  },
+  "PopAF": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"playful"
+  },
+  "PopAG": {
+    "Budget":"$1000-$2000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"playful"
+  },
+  "PopAH": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"serious"
+  },
+  "PopAI": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"serious"
+  },
+  "PopAJ": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"serious"
+  },
+  "PopAK": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"serious"
+  },
+  "PopAL": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"playful"
+  },
+  "PopAM": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"playful"
+  },
+  "PopAN": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"playful"
+  },
+  "PopAO": {
+    "Budget":"$2000-$3000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"playful"
+  },
+  "PopAP": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"serious"
+  },
+  "PopAQ": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"serious"
+  },
+  "PopAR": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"serious"
+  },
+  "PopAS": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"serious"
+  },
+  "PopAT": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"playful"
+  },
+  "PopAU": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Playful/serious":"playful"
+  },
+  "PopAV": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"playful"
+  },
+  "PopAW": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Playful/serious":"playful"
+  }
+}

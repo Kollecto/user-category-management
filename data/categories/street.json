@@ -1,0 +1,434 @@
+{
+  "StreetB": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetC": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetD": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetE": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetF": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetG": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetH": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetI": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetJ": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetK": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetL": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetM": {
+    "Budget":"$100-$300",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetN": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetO": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetP": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetQ": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetR": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetS": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetT": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetU": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetV": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetW": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetX": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetY": {
+    "Budget":"$300-$500",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetZ": {
+    "Budget":"$500-1,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetAA": {
+    "Budget":"$500-1,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetAB": {
+    "Budget":"$500-1,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetAC": {
+    "Budget":"$500-1,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetAD": {
+    "Budget":"$500-1,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetAE": {
+    "Budget":"$500-1,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetAF": {
+    "Budget":"$500-1,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetAG": {
+    "Budget":"$500-1,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetAH": {
+    "Budget":"$500-1,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetAI": {
+    "Budget":"$500-1,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetAJ": {
+    "Budget":"$500-1,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetAK": {
+    "Budget":"$500-1,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetAL": {
+    "Budget":"$1,000-$2,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetAM": {
+    "Budget":"$1,000-$2,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetAN": {
+    "Budget":"$1,000-$2,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetAO": {
+    "Budget":"$1,000-$2,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetAP": {
+    "Budget":"$1,000-$2,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetAQ": {
+    "Budget":"$1,000-$2,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetAR": {
+    "Budget":"$1,000-$2,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetAS": {
+    "Budget":"$1,000-$2,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetAT": {
+    "Budget":"$1,000-$2,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetAU": {
+    "Budget":"$1,000-$2,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetAV": {
+    "Budget":"$1,000-$2,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetAW": {
+    "Budget":"$1,000-$2,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetAX": {
+    "Budget":"$2,000-$3,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetAY": {
+    "Budget":"$2,000-$3,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetAZ": {
+    "Budget":"$2,000-$3,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetBA": {
+    "Budget":"$2,000-$3,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetBB": {
+    "Budget":"$2,000-$3,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetBC": {
+    "Budget":"$2,000-$3,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetBD": {
+    "Budget":"$2,000-$3,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetBE": {
+    "Budget":"$2,000-$3,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetBF": {
+    "Budget":"$2,000-$3,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetBG": {
+    "Budget":"$2,000-$3,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetBH": {
+    "Budget":"$2,000-$3,000",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetBI": {
+    "Budget":"$2,000-$3,000",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetBJ": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetBK": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetBL": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetBM": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Street Art"
+  },
+  "StreetBN": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetBO": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetBP": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetBQ": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Classic Graffiti Art"
+  },
+  "StreetBR": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetBS": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"known artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetBT": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Collecting",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  },
+  "StreetBU": {
+    "Budget":"$3,000+",
+    "Collecting/ Decorating":"Decorating",
+    "Known/ Unknown/ Emerging":"unknown artists",
+    "Street/Urban/Graffiti":"Urban Art"
+  }
+}
