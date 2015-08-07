@@ -1,32 +1,33 @@
 require 'intercom'
 require 'json'
 require 'pp'
+require 'yaml'
 
-load '../databases/categories/assigned_1c.rb'
-# Makes sure assigned categories are unique
-@categories_assigned.uniq!
+def parse_json(file)
+  json = File.read(file)
+  return JSON.parse(json)
+end
 
-#pp @categories_assigned
+CONFIG = 'config.yml'
+@config = YAML::load(File.open(CONFIG))
+
+GENRES = 'data/genres.json'
+@genres = parse_json(GENRES)
+
+CATEGORY_QUEUE = 'data/categories/queue.json'
+@categories_queue = parse_json(CATEGORY_QUEUE)
+@categories_queue.uniq!
+
+DELIVERY_ROUND = "1C"
 
 $intercom
-$delivery_round = 1.75
-
 @categories_hash = []
 @users
 @users_of_genre = []
 @users_with_categories = []
 
-@genres = {
-  :abstract => "Abstract Art",
-  :known => "Famous/ Emerging Artists",
-  :classic => "Classic/ Fine Art",
-  :photo => "Photography",
-  :pop => "Pop Art",
-  :street => "Street/ Urban Art"
-}
-
 def get_intercom_users
-  $intercom = Intercom::Client.new(app_id: 'dqv4tqvn', api_key: '8513ddd36eeac9caebb01a1b6daac7637af5c40f')
+  $intercom = Intercom::Client.new(app_id: @config['intercom']['app_id'], api_key: @config['intercom']['api_key'])
   @users = $intercom.users.all
 end
 
@@ -77,7 +78,7 @@ end
 
 # Get hash of taste categories
 def get_categories_hash (genre, genre_title)
-  file = "../databases/categories/#{genre}.json"
+  file = "data/categories/#{genre}.json"
   json = File.read(file)
   return JSON.parse(json)
 end
@@ -103,10 +104,10 @@ end
 
 def get_user_categories
   # Gets collection of category hashes that are included within the category queue
-  @categories_queue = @categories_hash.select{|category| @categories_assigned.include? category}
+  @categories_selection = @categories_hash.select{|category| @categories_queue.include? category}
 
   # Gets users whose attribute hashes match taste category hashes
-  @categories_queue.each do |key, hash|
+  @categories_selection.each do |key, hash|
     @users_of_category = @users_of_genre.select {|user| user.custom_attributes.values_at(*hash.keys) == hash.values}
     puts "#{key} - #{@users_of_category.count} users"
 
@@ -119,19 +120,18 @@ end
 def assign_users_category(category, users_of_category)
   users_of_category.each do |user|
     user.custom_attributes['taste-category'] = category
-    user.custom_attributes['delivery-round'] = $delivery_round
+    user.custom_attributes['delivery-round'] = DELIVERY_ROUND
     @users_with_categories << user
     # Save user tast category data
-    $intercom.users.save(user)
+    #$intercom.users.save(user)
   end
 end
 
 # Init
 def init
   get_intercom_users
-  patch_collecting_decorating_bug
+  #patch_collecting_decorating_bug
   get_user_counts
-
   @genres.each do |genre, genre_title|
     @categories_hash = get_categories_hash(genre, genre_title)
     @categories_attr = @categories_hash.first[1].keys
