@@ -195,8 +195,9 @@ def pivot
 
         if !(user.custom_attributes['delivery-categories'])
           user.custom_attributes['delivery-category'] = delivery_category
-          user.custom_attributes['delivery-categories'] = delivery_category
-          puts "#{user.email} | #{taste_category} | #{delivery_category}"
+          delivery_categories = [taste_category,delivery_category].to_s
+          user.custom_attributes['delivery-categories'] = delivery_categories
+          puts "#{user.email} | #{taste_category} | #{delivery_category} | #{delivery_categories}"
           #$intercom.users.save(user)
         else
           delivery_categories = user.custom_attributes['delivery-categories'].split(",")
