@@ -160,22 +160,36 @@ def pivot
       end
       @users_of_genre.each do |user|
         user_bucket_value = user.custom_attributes[DELIVERY_ATTR]
-        @bucket_categories = (@delivery_attr_hash.find {|key, bucket| key.delete(',').delete('$') == user_bucket_value.delete(',').delete('$')})[1]
-
         taste_category = user.custom_attributes['taste-category']
+				bucket = @delivery_attr_hash.find {|key, bucket| key.delete(',').delete('$') == user_bucket_value.delete(',').delete('$')}
+        @bucket_categories =  @delivery_bucket_categories = (bucket)[1]
+        bucket_categories_key = (bucket)[0]
         category_index = @bucket_categories.index(taste_category)
+				bucket_index = @delivery_attr_hash.keys.index(bucket_categories_key)
+				@delivery_attr_buckets = @delivery_attr_hash.values
+
+				pp bucket_index
 
         begin
-          if (category_index >= @bucket_categories.length - 1)
+          if (category_index >= @delivery_bucket_categories.length - 1)
             category_index = 0
           else
-            category_index = category_index + 1
+            category_index += 1
           end
-          delivery_category = @bucket_categories[category_index]
-          puts delivery_category
+          delivery_category = @delivery_bucket_categories[category_index]
+          pp delivery_category
           if delivery_category == taste_category
-            puts "!The #{user_bucket_value} bucket has cylcled out!"
-            break
+            bucket_index += 1
+            if (bucket_index >= @delivery_attr_buckets.length - 1)
+              bucket_index = category_index = 0
+            end
+            @delivery_bucket_categories = @delivery_attr_buckets[bucket_index]
+            puts "! Bucket Pivot!"
+            if (@delivery_bucket_categories == @bucket_categories)
+              puts "! Bucket options have cycled out !"
+              break
+            end
+            redo
           end
         end until @categories_queue.include? delivery_category
 
